@@ -18,6 +18,8 @@
     "require": {
         "php": "^7.3",
         "donatello-za/rake-php-plus": "^1.0",
+        "guzzlehttp/guzzle": "^6.5.5",
+        "illuminate/http": "^8.0",
         "laravel-zero/framework": "^8.0"
     },
     "require-dev": {
